@@ -105,12 +105,12 @@ export const questions = [
     text: '🎤 ¿Qué canciones definitivamente tienen que sonar?',
     type: 'info',
     description: 'Agrégalas a esta playlist cuando te acuerdes o escuches una que sí o sí debe estar 🎶',
-    link: 'https://open.spotify.com/playlist/TU_LINK_AQUI',
+    link: 'https://open.spotify.com/playlist/6B4wJfFUmXPT0eM05ZRi9L?si=pg7eu0PmRWW7ZwBMGa-MUQ&utm_source=whatsapp&pi=soiIoKUdS4eEx',
     linkLabel: 'Abrir playlist en Spotify',
   },
   {
     id: 'protagonist-color',
-    text: '👗 Siendo tú fueras la protagonista... ¿de qué color te gustaría vestir?',
+    text: '👗 Tú como protagonista... ¿Como te gustaría vestirte?',
     type: 'single',
     description: "Solo puedes seleccionar una... Lo se, esta dificil",
     options: [
